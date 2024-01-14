@@ -1,0 +1,319 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Jost";
+}
+ul,
+li,
+ol {
+  list-style: none;
+}
+a,
+a:hover {
+  text-decoration: none;
+}
+
+.bg-background {
+  position: absolute;
+  right: 0;
+  bottom: -68px;
+}
+.header {
+  background: #eef4ff;
+  top: 0;
+  z-index: 999;
+}
+.Service {
+  font-size: 24px;
+  color: #61646b;
+  font-weight: 400;
+}
+.button-3 {
+  background-color: #eef4ff;
+  color: #3e3fd8;
+  font-size: 18px;
+  padding: 16px 32px;
+}
+.sec-1 {
+  padding: 100px 0;
+  background: #eef4ff;
+  position: relative;
+}
+.font-size h1 {
+  font-size: 38px;
+  color: #2e323b;
+  font-weight: 700;
+}
+.font-size p {
+  font-size: 18px;
+  font-weight: 400;
+  color: #61646b;
+}
+.button-1 {
+  background: #3e3fd8;
+  padding: 16px 22px;
+  font-size: 18px;
+}
+.button-1:hover {
+  background-color: #000000;
+  color: #ffffff;
+}
+.con-link {
+  font-size: 18px;
+  font-weight: 500;
+  color: #61646b;
+}
+.logo h2 {
+  font-size: 38px;
+  font-weight: 700;
+  color: #2e323b;
+}
+.sec-2 {
+  padding: 100px 0;
+}
+.Online {
+  font-size: 38px;
+  font-weight: 700;
+  color: #2e323b;
+}
+.text-top p {
+  font-size: 18px;
+  font-weight: 400;
+  color: #61646b;
+}
+.Scheduling {
+  font-size: 24px;
+  font-weight: 600;
+  color: #2e323b;
+}
+.sec-3 {
+  padding: 100px 0;
+}
+.Business h2 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #2e323b;
+}
+.Business p {
+  font-size: 18px;
+  font-weight: 400;
+  color: #61646b;
+}
+.font-size {
+  font-size: 24px;
+  font-weight: 600;
+  color: #2e323b;
+}
+.simply {
+  font-size: 18px;
+  font-weight: 400;
+  color: #61646b;
+}
+.Video-icon {
+  font-size: 18px;
+  font-weight: 500;
+  color: #61646b;
+}
+.dummy {
+  background: #ffffff;
+  box-shadow: 0px 10px 50px 5px rgba(0, 0, 0, 0.15);
+  border: none;
+  border: 2px solid #ffffff;
+}
+.dummy:hover {
+  border-color: #3e3fd8;
+}
+.Solutions h1 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #2e323b;
+}
+.Solutions p {
+  font-size: 18px;
+  font-weight: 400;
+  color: #61646b;
+}
+.clint {
+  background: #fcddec80;
+  font-size: 48px;
+  font-weight: 700;
+  color: #ff3d68;
+  padding: 8px 26px;
+}
+.Total {
+  font-size: 18px;
+  font-weight: 400;
+  color: #2e323b;
+}
+.sec-5 {
+  padding: 100px 0;
+}
+.Boost {
+  font-size: 24px;
+  font-weight: 400;
+  color: #3e3fd8;
+  letter-spacing: 12px;
+}
+.Thinks h2 {
+  font-size: 32px;
+  font-weight: 700;
+  color: #2e323b;
+}
+.clint-1 {
+  font-size: 48px;
+  color: #3e3fd8;
+  font-weight: 700;
+  padding: 8px 26px;
+  background-color: #fcddec80;
+}
+.Williamson {
+  font-size: 24px;
+  color: #2e323b;
+}
+.Aboutus {
+  padding: 16px 36px;
+  border-radius: 40px;
+  background: #ffffff;
+  box-shadow: 4px 4px 25px 0px rgba(0, 0, 0, 0.05);
+  border: none;
+  border: 2px solid #ffffff;
+}
+.Aboutus:hover {
+  border-color: #3e3fd8;
+}
+.consec {
+  font-size: 18px;
+  font-weight: 400;
+  color: #61646b;
+}
+.Year {
+  font-size: 18px;
+  font-weight: 400;
+  color: #61646b;
+}
+.Latest {
+  font-size: 48px;
+  font-weight: 700;
+  color: #2e323b;
+}
+.variations {
+  font-size: 18px;
+  font-weight: 400;
+  color: #61646b;
+}
+.Wilson {
+  font-size: 18px;
+  font-weight: 400;
+  color: #61646b;
+}
+.Discover {
+  font-size: 24px;
+  font-weight: 600;
+  color: #2e323b;
+}
+.great {
+  border-radius: 20px;
+  border: 2px solid #3e3fd8;
+  background: #ffffff;
+  box-shadow: 4px 4px 50px 0px rgba(0, 0, 0, 0.05);
+}
+.Comunity {
+  padding: 100px 0;
+}
+.Join {
+  font-size: 24px;
+  font-weight: 400;
+  color: #3e3fd8;
+}
+.Subscribe {
+  font-size: 36px;
+  font-weight: 700;
+  color: #2e323b;
+}
+
+.passages {
+  font-size: 18px;
+  font-weight: 400;
+  color: #61646b;
+}
+.button-fit {
+  padding: 8px 12px;
+  font-size: 14px;
+  background: #3e3fd8;
+  right: 3%;
+  left: 72%;
+  top: 21%;
+}
+.lpsum {
+  border: none;
+  border: 1px solid #61646b;
+}
+.lpsum:hover {
+  border: 2px solid #3e3fd8;
+}
+.footer {
+  background: #3e3fd8;
+  padding: 100px 0;
+}
+.main-text {
+  font-size: 24px;
+  font-weight: 600;
+}
+.Informa {
+  font-size: 18px;
+  font-weight: 400;
+}
+@media (min-width: 640px) {
+  .Online {
+    font-size: 54px;
+  }
+  .Thinks h2 {
+    font-size: 32px;
+  }
+}
+
+@media (min-width: 768px) {
+  .spece {
+    margin: 10px 0;
+  }
+  .Thinks h2 {
+    font-size: 54px;
+  }
+  .button-fit {
+    padding: 8px 12px;
+    font-size: 18px;
+    background: #3e3fd8;
+    right: 1%;
+    left: 75%;
+    top: 12%;
+  }
+  .Online {
+    font-size: 44px;
+  }
+  .Business h2 {
+    font-size: 48px;
+  }
+  .Solutions h1 {
+    font-size: 36px;
+  }
+  .Subscribe {
+    font-size: 48px;
+  }
+  .font-size h1 {
+    font-size: 68px;
+  }
+  .logo h2 {
+    font-size: 38px;
+  }
+  .bg-background {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+  }
+}
+@media (min-width: 1024px) {
+}
+
+@media (min-width: 1200px) {
+}
